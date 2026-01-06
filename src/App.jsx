@@ -7,6 +7,7 @@ import Experience from "./sections/Experience";
 import Testimonials from "./sections/Testimonials";
 import Contact from "./sections/contact";
 
+
 const App = () => {
   return (
     <div className="min-h-screen overflow-x-hidden">
